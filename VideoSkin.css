@@ -55,8 +55,8 @@
 
   center-big-play-button ;
     /* Align center */
-    left: middle;
-    top: middle;
+    left: 75%;
+    top: 75%;
     margin-left: -(big-play-width / 2);
     margin-top: -(big-play-height / 2);   
   
